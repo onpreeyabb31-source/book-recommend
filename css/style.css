@@ -1,0 +1,48 @@
+.hero-bg {
+  background-color: #557548;
+
+}
+
+h1,
+h3,span {
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 2px;
+  color: #ffebe8;
+}
+
+h2{
+  font-family: "K2D", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #475e45;
+}
+
+p,
+li,h4,h5 {
+  font-family: "Taviraj", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #383737;
+}
+
+.text-green {
+  color: #475e45;
+}
+
+.bg-pink {
+  background-color: #faeaee;
+}
+
+.footer-bg {
+  background-color: #557548;
+}
+
+.text-pink {
+  color: #ffebe8;
+}
+
+.text {
+  text-indent:40px;
+}
